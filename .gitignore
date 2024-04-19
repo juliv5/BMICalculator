@@ -39,3 +39,4 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+node_modules/.cache/gh-pages/https\!github.com\!juliv5\!BMICalculator.git/
